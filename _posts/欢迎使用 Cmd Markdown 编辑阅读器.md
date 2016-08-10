@@ -1,4 +1,5 @@
-﻿# 欢迎使用 Cmd Markdown 编辑阅读器
+﻿layout: post
+# 欢迎使用 Cmd Markdown 编辑阅读器
 
 ------
 
