@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 杨挺文档仓库  # 博客标题
+title: 杨挺的文档仓库  # 博客标题
 email: ytating@foxmail.com # 你的邮箱
 description: >
   文档，代码，教程，心得…………    
 logo: "assets/images/logo.jpg"    #自定义 logo
-baseurl: "/amplify" # 重要：如果你绑定了自定义域名或使用了自己的用户名作为项目名，请删除本行并修改下一行
+baseurl: "/ytating" # 重要：如果你绑定了自定义域名或使用了自己的用户名作为项目名，请删除本行并修改下一行
 url: "http://yourdomain.com" # 如果你绑定了自定义域名或使用了自己的用户名作为项目名，请修改本行为你的域名
 paginate:	10 # 每页显示文章数量
 
